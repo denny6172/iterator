@@ -1,3 +1,6 @@
+/* 413226087 李柏翰 */
+/* 413085043 謝慶章 */
+
 public class DepartmentIterator implements IIterator {
     private String[] departments;
     private int index = 0;

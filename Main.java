@@ -1,3 +1,6 @@
+/* 413226087 李柏翰 */
+/* 413085043 謝慶章 */
+
 public class Main {
     public static void main(String[] args) {
         Company company = new Company(5);
